@@ -1,0 +1,117 @@
+/*
+Estilos body
+*/
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*
+Estilos Header
+*/
+
+header{
+  background-color: #444D54;
+}
+
+a{
+  text-decoration: none;
+}
+
+.btn1, .btn2{
+  color: #fff;
+  padding: 1em;
+}
+
+.btn1{
+  margin-left: 5em;
+}
+
+.btn3, .btn4, .btn5{
+  color: #AAAAA0;
+  padding: 1em;
+}
+
+#menuRight{
+  text-align: right;
+  margin: 1.5em 0;
+}
+
+.btn5{
+  margin-right: 5em;
+}
+
+#menuLeft{
+  margin: 1.5em 0;
+}
+
+/*
+Estilos Seccion 1
+*/
+
+.one{
+  background-image: url(../img/header.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+h1{
+  font-size: 4em;
+  color: #fff;
+  font-weight: 500;
+  margin-top: 5em;
+}
+
+h2{
+  font-size: 2em;
+  color: #fff;
+  font-weight: 500;
+  margin-bottom: 8em;
+  margin-top: 0.5em;
+}
+
+/*
+Estilos Seccion 2
+*/
+
+.two{
+  padding: 3em 0;
+}
+
+.col-5{
+  text-align: center;
+}
+
+img{
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  margin: 2em 0;
+}
+
+h3{
+  margin: 3em 0 1em;
+  text-align: left;
+  font-size: 2em;
+  color: #444D54;
+  padding: 0 1em;
+}
+
+.text{
+  font-size: 0.9em;
+  color: #444D54;
+  padding: 0 2em;
+}
+
+
+/*
+Estilos Footer
+*/
+
+footer{
+  background-color: #444D54;
+  text-align: center;
+  color: #fff;
+  font-size: 1em;
+  padding: 2em 0;
+  margin-top: -0.25em
+}
